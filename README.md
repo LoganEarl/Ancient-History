@@ -50,9 +50,8 @@ This was made to be the successor to Journey,  made around my sophomore year of 
 
 This was a cool one to work on though. Every level was painstakingly laid out on paper, I knew what all the quests were going to be and which areas of the level you could access after which events. Every npc, soldier, all of it was planned out in advance. Maybe thats what did the project in after all was said and done. The image of it was done in my head so I sort of just moved onto other things.
 
-<h3>NNGenetic, In Memoriam</h3>
-This was a project I worked on in my late high school days. I saw was, because these tiny files are all I can find of it. Unfortunaly it seems this project was lost to the ages.
- I had heard all these neat (get it?) things about genetic algorithms and had watched some YouTube videos, and decided to try and make one for myself. I was actually sort of successful. The neural network I fudged my way through had too many hidden layers for any chance of truly complex behavior emerging, and the structure was just really bad/buggy in general. Despite all that, it worked well enough that some interesting strategies emerged. 
+<h3>NNGenetic</h3>
+This was the last big project I worked on before taking a class on design patterns and OOP, that being the class that blew my mind. Seriously, pretty much everything before that class I now know to be low tier trash code. Now its just mid-tier at best haha. Anyways, I had heard all these NEAT (get it?) things about genetic algorithms and had watched some YouTube videos, and decided to try and make one for myself. I was actually sort of successful. The neural network I fudged my way through had too many hidden layers for any chance of truly complex behavior emerging, and the structure was just really bad/buggy in general. Despite all that, it worked well enough that some interesting strategies emerged. 
 
 <h4>The Setting</h4>
 The world is pretty simple. It starts off with a bunch of creatures (colored squares), each of a different species that spawn in random locations. There are also walls (lines of brown squares) and food (pink squares). Creatures that die drop this food. Every tick, creatures can do only one action. Their options are move, eat, or attack.
