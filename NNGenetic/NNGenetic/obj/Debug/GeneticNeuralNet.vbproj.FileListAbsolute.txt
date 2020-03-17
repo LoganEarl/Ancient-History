@@ -1,0 +1,40 @@
+c:\users\logan\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNet.vbproj.GenerateResource.Cache
+E:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNet.vbprojResolveAssemblyReference.cache
+E:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MainFrm.resources
+E:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNet.vbproj.GenerateResource.Cache
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNet.vbprojResolveAssemblyReference.cache
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Genetic Neural Network.exe.config
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Genetic Neural Network.exe
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Genetic Neural Network.pdb
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Genetic Neural Network.xml
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNetwork.MainFrm.resources
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNetwork.Resources.resources
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Genetic Neural Network.exe
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Genetic Neural Network.xml
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Genetic Neural Network.pdb
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNetwork.ConfigFrm.resources
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\Genetic Neural Network.exe.config
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\Genetic Neural Network.exe
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\Genetic Neural Network.xml
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\Genetic Neural Network.pdb
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Genetic Neural Network.exe.config
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Genetic Neural Network.exe
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Genetic Neural Network.pdb
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Genetic Neural Network.xml
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNet.vbprojAssemblyReference.cache
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNetwork.ConfigFrm.resources
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNetwork.MainFrm.resources
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNetwork.Resources.resources
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNet.vbproj.GenerateResource.cache
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\GeneticNeuralNet.vbproj.CoreCompileInputs.cache
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Genetic Neural Network.exe
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Genetic Neural Network.xml
+E:\Users\Logan\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Genetic Neural Network.pdb
