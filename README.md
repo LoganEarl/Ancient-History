@@ -3,14 +3,15 @@ Beware!! These projects were all created when I was very new to and very bad at 
 
 This is just a repo so that I do not have to juggle multiple thumb drives full of old projects around anymore. This way they wont go anywhere and I can rest easier. 
 
-Without a doubt though, all projects in this repo took an incredible amount of my time. Sure they are all hot garbage but the time alone makes them worth keeping.
+Without a doubt though, all projects in this repo took an incredible amount of my time. Sure they are all hot garbage but the time I spent on each of them makes them all worth keeping.
 
 <h3>Journey</h3>
 This was the oldest of my projects posted here. The code is unspeakable horrible. <br>
-That being said, I did put a lot of time into it back in the day. It is a text-based adventure where you, an average dude, have to rescue your old pet Kerfluffles from an evil necromancer named Zargon of all things. You chase him through 4 levels of dungeon before fighting him, and every boss you have fought thus far, in a climactic fight on level 5. The game is playable but has its quirks.
+That being said, I did put a lot of time into it back in the day. It is a text-based adventure where you, an average dude, have to rescue your old pet Kerfluffles from an evil necromancer named Zargon of all things. You chase him through 4 levels of dungeon before fighting him and every boss you have fought thus far in a climactic fight on level 5. The game is playable but has its quirks.
 
  - Commands are entered with the space key, not the enter key. I didn't figure out how to do the enter key when I made it.
  - Do not use the longswords. For whatever reason they do negative damage, effectively healing your foes. 
+ - Remember to search for treasure on literally every tile you enter. Its a pain, but its the only way to get any of the amulets, which when stacked with good armor give you so much defence that even the endboss will heal you with every hit. A full build in this game is super broken.
  - All monster and item names cannot have spaces in them. They are not case sensitive though (usually). Go with all lower case to be safe
  - There is no useful help menu, so here is a list of commands to try out. [] denote prose descriptions, "," separate alternate forms
 	 - save [slot number]
